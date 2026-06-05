@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: robin23244/java-cicd-app:2
+        image: robin23244/java-cicd-app:3
         ports:
         - containerPort: 8080
